@@ -16,6 +16,9 @@ body {
 body {
   margin: 0;
   background-color: #fff;
+  background-image: url(../img/rauhfaser-2021-12-22.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   text-align: center;
@@ -43,6 +46,7 @@ footer p {
   border-radius: 50%;
   position: relative;
   margin: 0 auto;
+  background-color: #fff;
 }
 
 .pointerSeconds,
